@@ -1,0 +1,27 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "react/react-global.d.ts": {
+      "commit": "44cbde48eecd1918ed54b3be49a9752688b6c65a"
+    },
+    "react/react.d.ts": {
+      "commit": "44cbde48eecd1918ed54b3be49a9752688b6c65a"
+    },
+    "react-dom/react-dom.d.ts": {
+      "commit": "44cbde48eecd1918ed54b3be49a9752688b6c65a"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "44cbde48eecd1918ed54b3be49a9752688b6c65a"
+    },
+    "type-check/type-check.d.ts": {
+      "commit": "44cbde48eecd1918ed54b3be49a9752688b6c65a"
+    },
+    "d3/d3.d.ts": {
+      "commit": "44cbde48eecd1918ed54b3be49a9752688b6c65a"
+    }
+  }
+}
